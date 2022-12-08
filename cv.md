@@ -38,3 +38,20 @@ April 2014 - 2022
 - >Adaptive layout: https://farmgame-adaptiv.w3spaces.com/
 - >Code: https://github.com/lendweekk/farmgame/blob/main/index.html
 ***
+###EDUCATION
+>Master's Degree [DIPLOMA](https://drive.google.com/file/d/1LfmhyATbrOFYckovvGQK3PXLR6fivlGT/view?usp=share_link)
+>Program Subject Area: Computer Engineering
+>Educational program: Intelligent information technologies
+>Ukrainian state university of railway transport
+####CERTIFICATE
+- >IT Education Academy (ITEA) - is an international educational
+center that trains IT practitioners.
+The course on FRONT END DEVELOPMENT [CERTIFICATE on completion]()
+- >Fundamentals of Programming [CERTIFICATE](https://drive.google.com/file/d/12GBceXDZaYbVIacxodQvBravHN4kcKgP/view?usp=share_link)
+- >Web layout desinger: getting started [CERTIFICATE](https://drive.google.com/file/d/1kqvuAYOmehw6ZJZtPrbkQWaPRBvOaqP9/view?usp=share_link)
+- >JavaScript: diving in [CERTIFICATE](https://drive.google.com/file/d/1Mf5JXLRKzp2FMA30M73yF6IYJFCpFexC/view?usp=share_link)
+***
+###LANGUAGE
+- >Ukrainian Excellent
+- >Russian Excellent
+- >English A1 [CERTIFICATE](https://drive.google.com/file/d/1IdcKL1sAH_j19PKwLEAn12qv1TveeRWo/view?usp=share_link)
