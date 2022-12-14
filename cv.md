@@ -1,4 +1,4 @@
-![](./foto/my_foto.jpg)
+![](./img/my_foto.jpg)
 #Yevhenii Pohorielov
 ***
 #***Junior Frontend Developer***
