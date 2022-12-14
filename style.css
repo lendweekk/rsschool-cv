@@ -1,0 +1,218 @@
+.color_fon{
+   margin: 0;
+   background: rgb(238,174,202);
+   background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+
+.header{
+   height: 40px;
+   text-align: center;
+   background-color:#737373
+}
+
+.header > a{
+   background-color:#696969;
+   padding: 30px;
+   font-size: 16px;
+   text-decoration: none;
+   border-radius: 30%;
+}
+
+.page {
+   min-width: 940px;
+   height: 100%;
+   margin: 0;
+   padding: 0;
+   font-family: 'Lato', sans-serif;
+   font-size: 16px;
+   line-height: 30px;
+   font-weight: 400;
+   color: black;
+}
+
+.page-body {
+   min-height: 100%;
+   width: 970px;
+   margin: 0 auto;
+   padding: 0;
+}
+.page-body a {
+   color: white;
+}
+.page-body a:hover,
+.page-body a:focus {
+   text-decoration: none;
+}
+.page-body a:active {
+   color:rgba(255, 255, 255, 0.5);
+   text-decoration: underline;
+}
+.container {
+   display: grid;
+   grid-template-columns: 1fr 1.5fr;
+}
+.section-title {
+   position: relative;
+   margin: 0;
+   margin-bottom: 36px;
+   padding-left: 60px;
+   font-size: 24px;
+   line-height: 36px;
+   font-weight: 600;
+}
+.section-title::before {
+   position: absolute;
+   content: "";
+   left: 0;
+   top: 0;
+   width: 10px;
+   height: 36px;
+   border-radius: 5%;
+   background-color: #ffffff;
+}
+
+.left-side {
+   color: white;
+   background-color: #343945;
+}
+.left-side img {
+   width: 388px;
+   height: 500px;
+   display: block;
+   background-color: lightgrey;
+}
+.left-side .section-title {
+   background-color: rgba(255, 255, 255, 0.1);
+} 
+
+.contact {
+   padding: 54px 0px 54px 0px;
+   background-color: #343945;
+}
+.contact__list {
+   list-style: none;
+   margin: 0;
+   margin-left: 60px;
+   margin-right: 60px;
+   padding: 0;
+}
+.contact__item {
+   display: flex;
+   margin-bottom: 5px;
+}
+.contact__item:last-child {
+   margin-bottom: 0;
+}
+.contact__item a {
+   display: block;
+}
+
+.language {
+   padding: 54px 0px 54px 0px;
+}
+.language__list {
+   margin: 0;
+   margin-left: 60px;
+   margin-right: 60px;
+   padding: 0;
+   list-style: none;
+}
+.language__item {
+   margin-bottom: 5px;
+}
+.language__item:last-child {
+   margin-bottom: 0;
+}
+
+.right-side {
+   background-color:#cfebec;
+}
+
+.right-side .section-title {
+   background-color: rgba(0, 0, 0, 0.1)
+}
+.page-title {
+   margin: 125px 80px 125px 60px;
+}
+.main-title {
+   margin: 0;
+   padding: 0;
+   font-size: 50px;
+   line-height: 50px;
+   font-weight: 700;
+}
+.page-title p {
+   margin-top: 10px;
+   font-size: 25px;
+}
+
+.about-me {
+   padding: 0;
+   margin-bottom: 54px;
+}
+.about-me p {
+   margin: 0 60px 0 60px;
+   padding: 0;
+   font-size: 16px;
+   line-height: 24px;
+}
+
+.education {
+   margin-bottom: 54px;
+}
+.education__list {
+   margin-left: 60px;
+   padding: 0;
+   padding-left: 20px;
+}
+
+.portfolio {
+   margin-bottom: 54px;
+}
+.portfolio__list {
+   margin-left: 60px;
+   padding: 0;
+   padding-left: 20px;
+}
+
+.code-example {
+   width: 100%;
+   margin-bottom: 34px;
+}
+.code-example pre {
+   margin: 0;
+   padding: 0;
+   font-size: 10px;
+   line-height: 14px;
+}
+
+.footer {
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   align-items: center;
+   padding: 20px 60px 20px 60px;
+   color: white;
+   background-color: #737373;
+}
+.footer__github {
+   position: relative;
+   padding-left: 40px;
+}
+.footer__github::before {
+   position: absolute;
+   content: "";
+   left: 0;
+   top: 0;
+   width: 32px;
+   height: 32px;
+   background-image: url("../img/github-logo.svg");
+   background-repeat: no-repeat;
+   background-position: 0 0;
+}
+.footer__year {
+   justify-self: center;
+}
+.footer__rsschool {
+   justify-self: end;
+   height: 32px;
+}
